@@ -3,7 +3,7 @@ package app;
 import java.util.Scanner;
 import java.util.Timer;
 
-public class Main {
+public class SimpleCalculator {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
 
